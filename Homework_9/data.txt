@@ -1,0 +1,50 @@
+11,225,Iran
+22,305,Iran
+22,390,Canada
+7,418,Canada
+20,490,Germany
+21,197,United States
+16,463,Australia
+13,198,Spain
+7,300,Finland
+8,183,Australia
+1,373,Ireland
+7,173,Brazil
+12,377,India
+8,254,Germany
+19,148,Norway
+13,389,Denmark
+18,481,Ukraine
+7,245,Australia
+17,208,Canada
+23,130,Denmark
+6,390,France
+20,161,United Kingdom
+20,247,Serbia
+7,471,Serbia
+14,257,United Kingdom
+23,346,Australia
+12,143,New Zealand
+5,302,Norway
+1,245,Finland
+17,402,Australia
+15,429,Iran
+23,108,Canada
+7,219,Norway
+8,380,United States
+3,329,France
+3,357,Netherlands
+11,499,Canada
+22,377,Turkey
+6,189,Norway
+4,437,Norway
+4,346,Serbia
+8,230,Spain
+19,401,United States
+12,199,Ireland
+18,439,Brazil
+1,242,France
+7,428,Serbia
+20,357,Finland
+21,193,Netherlands
+21,278,Mexico
